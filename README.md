@@ -70,7 +70,7 @@ The dashboard is built around three KPI cards — Impressions, Engagements, and 
 ## Caveats
 
 -	**Learning Project:** This dashboard was built as a learning exercise by following a publicly available [YouTube tutorial](https://www.youtube.com/watch?v=ZFZmqdECBMs&t=694s). The visual structure and many of the DAX patterns are replicated for educational purposes and to practice Power BI development techniques.
--	**Data Ownership:** The data used in this project originates from the content creator’s own [LinkedIn](linkedin.com/in/injae-park) analytics. It was not self-collected, and no proprietary or sensitive information is included. Full credit goes to the original author for sharing the dataset.
+-	**Data Ownership:** The data used in this project originates from the content creator’s own [LinkedIn](https://www.linkedin.com/in/injae-park/) analytics. It was not self-collected, and no proprietary or sensitive information is included. Full credit goes to the original author for sharing the dataset.
 -	**Limited Business Context:** While the dashboard effectively demonstrates time-based KPI tracking and dynamic visuals, it does not reflect a real business scenario with strategic objectives, audience targeting, or deeper engagement drivers.
 -	**Static Dataset:** The dataset covers the years 2022–2024 and is not updated dynamically. Insights are valid only for the data range provided.
 
